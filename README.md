@@ -1,2 +1,7 @@
 # Just Business
-A collection of programs for fake businesses for practice :P
+A collection of practice programs for fake businesses:
+
+* Page visits funnel
+* Register/POS transactions
+* A/B testing
+* Hair salon menu
